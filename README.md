@@ -18,7 +18,7 @@
 
 ##  Problema e Justificativa
 
-A transição para a mobilidade elétrica é um caminho sem volta. No entanto, o crescimento acelerado da frota de veículos elétricos traz um desafio crítico: a **sobrecarga das redes elétricas urbanas**.
+A transição para a mobilidade elétrica é um caminho sem volta. No entanto, o crescimento acelerado da frota de veículos elétricos traz um desafio crítico: a sobrecarga das redes elétricas urbanas.
 
 O carregamento simultâneo de múltiplos veículos gera picos de demanda que:
 - Encarecem a operação dos eletropostos
@@ -26,13 +26,13 @@ O carregamento simultâneo de múltiplos veículos gera picos de demanda que:
 - Pressionam a infraestrutura de distribuição existente
 - Aumentam a dependência de fontes de energia convencionais e poluentes
 
-A solução não está apenas em instalar mais pontos de recarga — está em tornar cada ponto **mais inteligente**.
+A solução não está apenas em instalar mais pontos de recarga — está em tornar cada ponto mais inteligente.
 
 ---
 
 ##  Proposta de Solução
 
-O **EcoCharge Smart Grid** é uma plataforma completa de gestão inteligente de eletropostos, desenvolvida para integrar geração renovável, armazenamento energético e distribuição eficiente em um único ecossistema.
+O EcoCharge Smart Grid é uma plataforma completa de gestão inteligente de eletropostos, desenvolvida para integrar geração renovável, armazenamento energético e distribuição eficiente em um único ecossistema.
 
 ### Pilares da Solução
 
