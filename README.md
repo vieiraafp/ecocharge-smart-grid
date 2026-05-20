@@ -14,11 +14,6 @@
 | Cristhian Henrique Clementino | 574117 |
 | Fabio Pena Vieira | 570441 |
 
----
-
-## Vídeo Pitch
-
-[Assistir no YouTube](https://youtu.be/lnBIjjuoQ_g)
 
 ---
 
