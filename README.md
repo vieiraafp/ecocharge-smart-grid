@@ -59,7 +59,7 @@ O EcoCharge aprende com o histórico de uso dos eletropostos. Com isso, antecipa
 
 ---
 
-## 📈 Impactos Esperados
+##  Impactos Esperados
 
 | Dimensão | Impacto |
 |----------|---------|
