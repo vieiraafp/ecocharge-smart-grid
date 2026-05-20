@@ -1,10 +1,10 @@
 [README.md](https://github.com/user-attachments/files/28034990/README.md)
-# ⚡ EcoCharge Smart Grid
+#  EcoCharge Smart Grid
 ### EV Challenge 2026 | Soluções em Energias Renováveis e Sustentáveis
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
 | Nome | RM |
 |------|----|
@@ -16,13 +16,13 @@
 
 ---
 
-## 🎥 Vídeo Pitch
+## Vídeo Pitch
 
 [Assistir no YouTube](https://youtu.be/lnBIjjuoQ_g)
 
 ---
 
-## 🔍 Problema e Justificativa
+##  Problema e Justificativa
 
 A transição para a mobilidade elétrica é um caminho sem volta. No entanto, o crescimento acelerado da frota de veículos elétricos traz um desafio crítico: a **sobrecarga das redes elétricas urbanas**.
 
@@ -36,7 +36,7 @@ A solução não está apenas em instalar mais pontos de recarga — está em to
 
 ---
 
-## 💡 Proposta de Solução
+##  Proposta de Solução
 
 O **EcoCharge Smart Grid** é uma plataforma completa de gestão inteligente de eletropostos, desenvolvida para integrar geração renovável, armazenamento energético e distribuição eficiente em um único ecossistema.
 
@@ -70,20 +70,7 @@ O EcoCharge aprende com o histórico de uso dos eletropostos. Com isso, antecipa
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-| Tecnologia | Aplicação |
-|-----------|-----------|
-| **Geração Fotovoltaica** | Fonte primária de energia renovável para os eletropostos |
-| **Baterias de Armazenamento** | Acumulação de excedente solar para uso estratégico |
-| **Ecossistema GoodWe** | Inversores e sistemas de monitoramento de alta confiabilidade |
-| **Algoritmo de Balanceamento Dinâmico** | Gestão inteligente da fila e distribuição de carga |
-| **Análise Preditiva** | Aprendizado com histórico de uso para automação de decisões |
-| **Monitoramento em Tempo Real** | Rastreamento de geração e consumo por kilowatt |
-
----
-
-## 🌱 Fundamentação em Energias Renováveis e Sustentabilidade
+##  Fundamentação em Energias Renováveis e Sustentabilidade
 
 O EcoCharge Smart Grid foi concebido com os princípios de sustentabilidade como base estrutural, não como adereço:
 
@@ -95,7 +82,7 @@ O EcoCharge Smart Grid foi concebido com os princípios de sustentabilidade como
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 ecocharge-smart-grid/
