@@ -64,6 +64,19 @@ O EcoCharge aprende com o histórico de uso dos eletropostos. Com isso, antecipa
 
 ---
 
+## Tecnologias Utilizadas
+
+| Tecnologia | Motivo de Uso |
+|-----------|-----------|
+| **Geração Fotovoltaica** | Fonte primária de energia renovável para os eletropostos |
+| **Baterias de Armazenamento** | Acumulação de excedente solar para uso estratégico |
+| **Ecossistema GoodWe** | Inversores e sistemas de monitoramento de alta confiabilidade |
+| **Algoritmo de Balanceamento Dinâmico** | Gestão inteligente da fila e distribuição de carga |
+| **Análise Preditiva** | Aprendizado com histórico de uso para automação de decisões |
+| **Monitoramento em Tempo Real** | Rastreamento de geração e consumo por kilowatt |
+
+---
+
 ##  Fundamentação em Energias Renováveis e Sustentabilidade
 
 O EcoCharge Smart Grid foi concebido com os princípios de sustentabilidade como base estrutural, não como adereço:
