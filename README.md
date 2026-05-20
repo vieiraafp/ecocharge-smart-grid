@@ -82,15 +82,5 @@ O EcoCharge Smart Grid foi concebido com os princípios de sustentabilidade como
 
 ---
 
-##  Estrutura do Repositório
-
-```
-ecocharge-smart-grid/
-├── README.md          # Documentação principal do projeto
-├── entrega.txt        # Arquivo oficial de entrega
-└── docs/              # Documentação complementar (diagramas, referências)
-```
-
----
 
 > *"O futuro da mobilidade elétrica depende de eletropostos capazes de pensar. EcoCharge — a gestão inteligente que o planeta precisa."*
