@@ -76,6 +76,3 @@ O EcoCharge Smart Grid foi concebido com os princípios de sustentabilidade como
 - **Integração com ecossistema confiável:** o uso do ecossistema GoodWe garante padrões elevados de eficiência em inversores e monitoramento, componentes críticos para a viabilidade de sistemas de energia renovável em escala urbana.
 
 ---
-
-
-> *"O futuro da mobilidade elétrica depende de eletropostos capazes de pensar. EcoCharge — a gestão inteligente que o planeta precisa."*
