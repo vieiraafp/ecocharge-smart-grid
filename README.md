@@ -1,6 +1,5 @@
 [README.md](https://github.com/user-attachments/files/28034990/README.md)
 #  EcoCharge Smart Grid
-### EV Challenge 2026 | Soluções em Energias Renováveis e Sustentáveis
 
 ---
 
